@@ -5,5 +5,6 @@
 - 💬 Ask me about 
 - 📫 How to reach me:  jimolove@126.com or dongyazhuo@gmail.com
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yazhuodong-wyze.yazhuodong-wyze&left_color=green&right_color=red)
-![](https://github-readme-stats.vercel.app/api?username=yazhuodong-wyze)
+![](https://github-readme-stats.vercel.app/api?username=yazhuodong-wyze)   
+![visitors](https://visitor-badge.glitch.me/badge?page_id=yazhuodong-wyze.yazhuodong-wyze&left_color=green&right_color=red)   
+
